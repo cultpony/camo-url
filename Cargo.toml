@@ -1,11 +1,12 @@
 [package]
 name = "camo-url"
-version = "0.1.1"
+version = "0.1.2"
 authors = ["Cult Pony"]
 edition = "2018"
 repository = "https://github.com/cultpony/camo-url"
 homepage = "https://github.com/cultpony/camo-url"
 description = "Camo Proxy library for Camo and Camov2"
+license = "GPL-3.0"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
